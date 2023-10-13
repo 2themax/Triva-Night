@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#video-container {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+#bobblehead-video {
+    width: 100%;
+    height: auto;
+}
+
+#question-container {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
